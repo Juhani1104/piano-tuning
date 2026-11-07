@@ -1,0 +1,18 @@
+numpy==2.5.4
+scipy==1.18.1
+librosa==1.0.0
+mir_eval==0.8.2
+pretty_midi==0.2.11.post0
+torch==2.15.0
+soundfile==0.14.0
+audioread==3.1.0
+remotezip==0.12.6
+python-stretch==0.3.1
+piano_transcription_inference==0.0.6
+moduleconf==0.1.4
+pydub==0.25.1
+ncls==0.0.71
+onnxruntime==1.31.1
+# install these two with --no-deps: transkun pulls sox, basic-pitch pulls TensorFlow
+# transkun==2.0.1
+# basic-pitch==0.4.0

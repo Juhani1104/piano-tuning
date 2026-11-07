@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.pth
+*.wav
+*.mp3
+*.zip
+results/w.log
+results/get.log
+results/*.log
