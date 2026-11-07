@@ -1,0 +1,16 @@
+
+transkun: pieces 10 baseline F1 98.17
+  resample 10 raw drop  -0.10 [ -0.30,  0.06] retuned   0.07 [ -0.02,  0.16]
+  resample 20 raw drop  -0.19 [ -0.47, -0.02] retuned   0.05 [ -0.01,  0.14]
+  resample 35 raw drop  -1.48 [ -2.64, -0.68] retuned   0.04 [ -0.05,  0.15]
+  vocoder   5 raw drop  -0.34 [ -0.70, -0.08] retuned  -0.27 [ -0.55, -0.07]
+  vocoder  10 raw drop  -0.52 [ -0.91, -0.22] retuned  -0.40 [ -0.74, -0.13]
+  retune on unshifted 0.12
+
+basicpitch: pieces 10 baseline F1 71.97
+  resample 10 raw drop  -3.26 [ -4.41, -2.29] retuned   0.24 [  0.05,  0.44]
+  resample 20 raw drop -10.27 [-12.16, -7.95] retuned  -0.05 [ -0.26,  0.17]
+  resample 35 raw drop -27.90 [-32.32,-22.99] retuned  -0.14 [ -0.50,  0.16]
+  vocoder   5 raw drop  -3.73 [ -5.05, -2.51] retuned  -2.58 [ -3.90, -1.37]
+  vocoder  10 raw drop  -6.48 [ -7.96, -4.69] retuned  -3.27 [ -4.54, -2.07]
+  retune on unshifted -0.23

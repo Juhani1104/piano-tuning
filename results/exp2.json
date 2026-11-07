@@ -1,0 +1,2202 @@
+[
+{
+"piece": 0,
+"year": "2004",
+"model": "transkun",
+"method": "resample",
+"shift": 0,
+"est": -1.0000000000000009,
+"raw": 97.45222929936307,
+"retuned": 98.19724284199363
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "basicpitch",
+"method": "resample",
+"shift": 0,
+"est": -1.0000000000000009,
+"raw": 71.8693284936479,
+"retuned": 70.71622846781503
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "transkun",
+"method": "resample",
+"shift": 10,
+"est": 13.0,
+"raw": 97.88583509513741,
+"retuned": 97.76833156216792
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "basicpitch",
+"method": "resample",
+"shift": 10,
+"est": 13.0,
+"raw": 63.30196749358426,
+"retuned": 72.39150507848568
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "transkun",
+"method": "resample",
+"shift": -10,
+"est": -8.999999999999996,
+"raw": 97.3432518597237,
+"retuned": 97.66454352441613
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "basicpitch",
+"method": "resample",
+"shift": -10,
+"est": -8.999999999999996,
+"raw": 71.20921305182341,
+"retuned": 72.97794117647058
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "transkun",
+"method": "resample",
+"shift": 20,
+"est": 21.499999999999996,
+"raw": 97.35449735449735,
+"retuned": 97.55579171094581
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "basicpitch",
+"method": "resample",
+"shift": 20,
+"est": 21.499999999999996,
+"raw": 53.87823185988324,
+"retuned": 72.22731439046747
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "transkun",
+"method": "resample",
+"shift": -20,
+"est": -18.0,
+"raw": 97.21030042918454,
+"retuned": 97.55058572949947
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "basicpitch",
+"method": "resample",
+"shift": -20,
+"est": -18.0,
+"raw": 66.29955947136563,
+"retuned": 72.08029197080292
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "transkun",
+"method": "resample",
+"shift": 35,
+"est": 33.5,
+"raw": 95.01590668080594,
+"retuned": 97.65957446808513
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "basicpitch",
+"method": "resample",
+"shift": 35,
+"est": 33.5,
+"raw": 49.23747276688454,
+"retuned": 70.11596788581623
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "transkun",
+"method": "resample",
+"shift": -35,
+"est": -36.0,
+"raw": 96.42857142857143,
+"retuned": 98.19724284199363
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "basicpitch",
+"method": "resample",
+"shift": -35,
+"est": -36.0,
+"raw": 40.98613251155624,
+"retuned": 70.65217391304348
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "transkun",
+"method": "vocoder",
+"shift": 5,
+"est": 7.9999999999999964,
+"raw": 96.88506981740065,
+"retuned": 96.88506981740065
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 5,
+"est": 7.9999999999999964,
+"raw": 67.08633093525181,
+"retuned": 70.98001902949572
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "transkun",
+"method": "vocoder",
+"shift": -5,
+"est": -4.999999999999999,
+"raw": 96.8783638320775,
+"retuned": 97.54535752401281
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -5,
+"est": -4.999999999999999,
+"raw": 70.13487475915221,
+"retuned": 70.5223880597015
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "transkun",
+"method": "vocoder",
+"shift": 10,
+"est": 13.0,
+"raw": 96.4401294498382,
+"retuned": 96.89174705251877
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 10,
+"est": 13.0,
+"raw": 63.06306306306306,
+"retuned": 69.62391513982642
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "transkun",
+"method": "vocoder",
+"shift": -10,
+"est": -8.999999999999996,
+"raw": 96.88506981740065,
+"retuned": 96.9050160085379
+},
+{
+"piece": 0,
+"year": "2004",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -10,
+"est": -8.999999999999996,
+"raw": 66.59959758551308,
+"retuned": 65.6221198156682
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "transkun",
+"method": "resample",
+"shift": 0,
+"est": -1.5000000000000013,
+"raw": 94.39093484419264,
+"retuned": 94.14440022740193
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "basicpitch",
+"method": "resample",
+"shift": 0,
+"est": -1.5000000000000013,
+"raw": 48.65525672371638,
+"retuned": 47.29891956782713
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "transkun",
+"method": "resample",
+"shift": 10,
+"est": 12.0,
+"raw": 93.56125356125357,
+"retuned": 94.20454545454545
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "basicpitch",
+"method": "resample",
+"shift": 10,
+"est": 12.0,
+"raw": 39.19870059556037,
+"retuned": 48.72591671845867
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "transkun",
+"method": "resample",
+"shift": -10,
+"est": -8.999999999999996,
+"raw": 93.4945308002303,
+"retuned": 94.25810119386014
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "basicpitch",
+"method": "resample",
+"shift": -10,
+"est": -8.999999999999996,
+"raw": 43.27323162274619,
+"retuned": 49.16615194564547
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "transkun",
+"method": "resample",
+"shift": 20,
+"est": 20.499999999999996,
+"raw": 92.78818852924475,
+"retuned": 94.37819420783646
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "basicpitch",
+"method": "resample",
+"shift": 20,
+"est": 20.499999999999996,
+"raw": 32.74288781535159,
+"retuned": 47.71886559802713
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "transkun",
+"method": "resample",
+"shift": -20,
+"est": -18.5,
+"raw": 93.34875650665124,
+"retuned": 94.20454545454545
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "basicpitch",
+"method": "resample",
+"shift": -20,
+"est": -18.5,
+"raw": 34.4,
+"retuned": 48.91101431238332
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "transkun",
+"method": "resample",
+"shift": 35,
+"est": 36.5,
+"raw": 88.17330210772833,
+"retuned": 94.20454545454545
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "basicpitch",
+"method": "resample",
+"shift": 35,
+"est": 36.5,
+"raw": 32.00579290369298,
+"retuned": 49.035469819539514
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "transkun",
+"method": "resample",
+"shift": -35,
+"est": -34.0,
+"raw": 88.64734299516908,
+"retuned": 94.25810119386014
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "basicpitch",
+"method": "resample",
+"shift": -35,
+"est": -34.0,
+"raw": 10.589410589410589,
+"retuned": 49.16615194564547
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "transkun",
+"method": "vocoder",
+"shift": 5,
+"est": 7.500000000000007,
+"raw": 92.68854346574554,
+"retuned": 92.95612009237874
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 5,
+"est": 7.500000000000007,
+"raw": 43.682310469314075,
+"retuned": 46.562905317769136
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "transkun",
+"method": "vocoder",
+"shift": -5,
+"est": -3.9999999999999982,
+"raw": 92.68854346574554,
+"retuned": 93.06590257879657
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -5,
+"est": -3.9999999999999982,
+"raw": 44.91978609625668,
+"retuned": 46.58583280153159
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "transkun",
+"method": "vocoder",
+"shift": 10,
+"est": 10.999999999999998,
+"raw": 92.31658001155402,
+"retuned": 92.58400926998841
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 10,
+"est": 10.999999999999998,
+"raw": 38.574660633484164,
+"retuned": 45.50597108736644
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "transkun",
+"method": "vocoder",
+"shift": -10,
+"est": -8.000000000000002,
+"raw": 92.75862068965517,
+"retuned": 92.9512893982808
+},
+{
+"piece": 1,
+"year": "2006",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -10,
+"est": -8.000000000000002,
+"raw": 42.73743016759776,
+"retuned": 46.74329501915708
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "transkun",
+"method": "resample",
+"shift": 0,
+"est": -2.4999999999999964,
+"raw": 99.51876804619826,
+"retuned": 99.61685823754789
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "basicpitch",
+"method": "resample",
+"shift": 0,
+"est": -2.4999999999999964,
+"raw": 84.15094339622641,
+"retuned": 83.28664799253033
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "transkun",
+"method": "resample",
+"shift": 10,
+"est": 8.999999999999996,
+"raw": 99.71346704871061,
+"retuned": 99.71181556195965
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "basicpitch",
+"method": "resample",
+"shift": 10,
+"est": 8.999999999999996,
+"raw": 78.27681026581116,
+"retuned": 83.64661654135338
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "transkun",
+"method": "resample",
+"shift": -10,
+"est": -10.499999999999998,
+"raw": 99.61089494163424,
+"retuned": 99.61538461538463
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "basicpitch",
+"method": "resample",
+"shift": -10,
+"est": -10.499999999999998,
+"raw": 84.84848484848484,
+"retuned": 84.47789275634995
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "transkun",
+"method": "resample",
+"shift": 20,
+"est": 19.500000000000007,
+"raw": 99.61904761904762,
+"retuned": 99.61538461538463
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "basicpitch",
+"method": "resample",
+"shift": 20,
+"est": 19.500000000000007,
+"raw": 68.75,
+"retuned": 84.47789275634995
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "transkun",
+"method": "resample",
+"shift": -20,
+"est": -21.499999999999996,
+"raw": 99.51124144672532,
+"retuned": 99.71236816874402
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "basicpitch",
+"method": "resample",
+"shift": -20,
+"est": -21.499999999999996,
+"raw": 76.2954796030871,
+"retuned": 83.34901222953904
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "transkun",
+"method": "resample",
+"shift": 35,
+"est": 34.0,
+"raw": 99.71936389148738,
+"retuned": 99.71181556195965
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "basicpitch",
+"method": "resample",
+"shift": 35,
+"est": 34.0,
+"raw": 69.50053134962805,
+"retuned": 83.9134524929445
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "transkun",
+"method": "resample",
+"shift": -35,
+"est": -34.5,
+"raw": 99.20792079207921,
+"retuned": 99.51969260326608
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "basicpitch",
+"method": "resample",
+"shift": -35,
+"est": -34.5,
+"raw": 54.278074866310156,
+"retuned": 84.76821192052981
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "transkun",
+"method": "vocoder",
+"shift": 5,
+"est": 4.5000000000000036,
+"raw": 99.61538461538463,
+"retuned": 99.51597289448209
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 5,
+"est": 4.5000000000000036,
+"raw": 80.2314368370299,
+"retuned": 81.4453125
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "transkun",
+"method": "vocoder",
+"shift": -5,
+"est": -6.0,
+"raw": 99.61538461538463,
+"retuned": 99.71291866028707
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -5,
+"est": -6.0,
+"raw": 84.37810945273631,
+"retuned": 83.15688161693936
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "transkun",
+"method": "vocoder",
+"shift": 10,
+"est": 8.999999999999996,
+"raw": 99.22928709055876,
+"retuned": 99.61089494163424
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 10,
+"est": 8.999999999999996,
+"raw": 78.30188679245283,
+"retuned": 81.86226964112512
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "transkun",
+"method": "vocoder",
+"shift": -10,
+"est": -10.499999999999998,
+"raw": 99.51876804619826,
+"retuned": 99.61759082217974
+},
+{
+"piece": 2,
+"year": "2008",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -10,
+"est": -10.499999999999998,
+"raw": 80.37383177570094,
+"retuned": 82.05625606207565
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "transkun",
+"method": "resample",
+"shift": 0,
+"est": 3.0000000000000027,
+"raw": 96.5062623599209,
+"retuned": 96.78688524590164
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "basicpitch",
+"method": "resample",
+"shift": 0,
+"est": 3.0000000000000027,
+"raw": 54.40115440115441,
+"retuned": 54.83870967741936
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "transkun",
+"method": "resample",
+"shift": 10,
+"est": 12.0,
+"raw": 96.66448659254414,
+"retuned": 96.7784352399737
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "basicpitch",
+"method": "resample",
+"shift": 10,
+"est": 12.0,
+"raw": 49.72826086956521,
+"retuned": 54.22740524781341
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "transkun",
+"method": "resample",
+"shift": -10,
+"est": -8.999999999999996,
+"raw": 96.64694280078896,
+"retuned": 96.97766097240473
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "basicpitch",
+"method": "resample",
+"shift": -10,
+"est": -8.999999999999996,
+"raw": 53.006329113924046,
+"retuned": 55.4585152838428
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "transkun",
+"method": "resample",
+"shift": 20,
+"est": 20.999999999999996,
+"raw": 96.19921363040629,
+"retuned": 96.97766097240473
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "basicpitch",
+"method": "resample",
+"shift": 20,
+"est": 20.999999999999996,
+"raw": 46.540880503144656,
+"retuned": 55.41818181818181
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "transkun",
+"method": "resample",
+"shift": -20,
+"est": -18.5,
+"raw": 96.8421052631579,
+"retuned": 96.78688524590164
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "basicpitch",
+"method": "resample",
+"shift": -20,
+"est": -18.5,
+"raw": 42.20018034265103,
+"retuned": 54.25454545454544
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "transkun",
+"method": "resample",
+"shift": 35,
+"est": 37.5,
+"raw": 94.86166007905139,
+"retuned": 96.51086240947994
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "basicpitch",
+"method": "resample",
+"shift": 35,
+"est": 37.5,
+"raw": 31.147540983606557,
+"retuned": 54.385964912280706
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "transkun",
+"method": "resample",
+"shift": -35,
+"est": -32.49999999999999,
+"raw": 95.61170212765957,
+"retuned": 96.51086240947994
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "basicpitch",
+"method": "resample",
+"shift": -35,
+"est": -32.49999999999999,
+"raw": 21.71552660152009,
+"retuned": 54.2794440380395
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "transkun",
+"method": "vocoder",
+"shift": 5,
+"est": 7.9999999999999964,
+"raw": 96.43799472295515,
+"retuned": 96.36002647253474
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 5,
+"est": 7.9999999999999964,
+"raw": 47.360703812316714,
+"retuned": 48.22134387351778
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "transkun",
+"method": "vocoder",
+"shift": -5,
+"est": -2.9999999999999973,
+"raw": 96.3011889035667,
+"retuned": 96.37442320369149
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -5,
+"est": -2.9999999999999973,
+"raw": 46.339501206757845,
+"retuned": 48.29770387965162
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "transkun",
+"method": "vocoder",
+"shift": 10,
+"est": 12.0,
+"raw": 95.13657561625584,
+"retuned": 95.76719576719577
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 10,
+"est": 12.0,
+"raw": 46.380885453267744,
+"retuned": 49.46401225114854
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "transkun",
+"method": "vocoder",
+"shift": -10,
+"est": -8.499999999999996,
+"raw": 95.82504970178927,
+"retuned": 95.6982131039047
+},
+{
+"piece": 3,
+"year": "2009",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -10,
+"est": -8.499999999999996,
+"raw": 45.50700741962077,
+"retuned": 49.77029096477795
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "transkun",
+"method": "resample",
+"shift": 0,
+"est": -2.0000000000000018,
+"raw": 98.26046074283028,
+"retuned": 98.21092278719398
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "basicpitch",
+"method": "resample",
+"shift": 0,
+"est": -2.0000000000000018,
+"raw": 72.02323330106486,
+"retuned": 71.40797693416626
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "transkun",
+"method": "resample",
+"shift": 10,
+"est": 10.499999999999998,
+"raw": 98.02445907808091,
+"retuned": 98.16470588235295
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "basicpitch",
+"method": "resample",
+"shift": 10,
+"est": 10.499999999999998,
+"raw": 66.54099905749294,
+"retuned": 72.40038872691935
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "transkun",
+"method": "resample",
+"shift": -10,
+"est": -9.499999999999996,
+"raw": 97.91666666666667,
+"retuned": 98.16470588235295
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "basicpitch",
+"method": "resample",
+"shift": -10,
+"est": -9.499999999999996,
+"raw": 69.53367875647668,
+"retuned": 72.37354085603113
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "transkun",
+"method": "resample",
+"shift": 20,
+"est": 20.499999999999996,
+"raw": 98.22595704948647,
+"retuned": 98.16470588235295
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "basicpitch",
+"method": "resample",
+"shift": 20,
+"est": 20.499999999999996,
+"raw": 60.0,
+"retuned": 72.37354085603113
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "transkun",
+"method": "resample",
+"shift": -20,
+"est": -19.0,
+"raw": 97.9027645376549,
+"retuned": 98.26046074283028
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "basicpitch",
+"method": "resample",
+"shift": -20,
+"est": -19.0,
+"raw": 60.797144556811425,
+"retuned": 72.13592233009707
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "transkun",
+"method": "resample",
+"shift": 35,
+"est": 35.0,
+"raw": 96.61016949152543,
+"retuned": 98.26046074283028
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "basicpitch",
+"method": "resample",
+"shift": 35,
+"est": 35.0,
+"raw": 43.35664335664336,
+"retuned": 72.02323330106486
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "transkun",
+"method": "resample",
+"shift": -35,
+"est": -36.5,
+"raw": 97.2609322441134,
+"retuned": 97.9764705882353
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "basicpitch",
+"method": "resample",
+"shift": -35,
+"est": -36.5,
+"raw": 30.387596899224807,
+"retuned": 71.35291285507944
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "transkun",
+"method": "vocoder",
+"shift": 5,
+"est": 6.500000000000005,
+"raw": 97.77777777777777,
+"retuned": 97.67662399241347
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 5,
+"est": 6.500000000000005,
+"raw": 67.23107569721115,
+"retuned": 70.79283887468031
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "transkun",
+"method": "vocoder",
+"shift": -5,
+"est": -5.499999999999999,
+"raw": 97.92648444863337,
+"retuned": 97.83018867924528
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -5,
+"est": -5.499999999999999,
+"raw": 70.24491922876499,
+"retuned": 70.83969465648855
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "transkun",
+"method": "vocoder",
+"shift": 10,
+"est": 10.999999999999998,
+"raw": 97.97265440829797,
+"retuned": 98.15602836879432
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 10,
+"est": 10.999999999999998,
+"raw": 62.622309197651674,
+"retuned": 70.2020202020202
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "transkun",
+"method": "vocoder",
+"shift": -10,
+"est": -8.999999999999996,
+"raw": 97.73584905660377,
+"retuned": 97.83427495291902
+},
+{
+"piece": 4,
+"year": "2011",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -10,
+"est": -8.999999999999996,
+"raw": 67.62974852862493,
+"retuned": 70.54108216432866
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "transkun",
+"method": "resample",
+"shift": 0,
+"est": -0.5000000000000004,
+"raw": 99.78768577494692,
+"retuned": 99.78768577494692
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "basicpitch",
+"method": "resample",
+"shift": 0,
+"est": -0.5000000000000004,
+"raw": 85.80310880829015,
+"retuned": 86.07068607068608
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "transkun",
+"method": "resample",
+"shift": 10,
+"est": 9.499999999999996,
+"raw": 99.78858350951374,
+"retuned": 99.78768577494692
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "basicpitch",
+"method": "resample",
+"shift": 10,
+"est": 9.499999999999996,
+"raw": 84.2430484037075,
+"retuned": 86.07068607068608
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "transkun",
+"method": "resample",
+"shift": -10,
+"est": -10.999999999999998,
+"raw": 99.67914438502673,
+"retuned": 99.78768577494692
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "basicpitch",
+"method": "resample",
+"shift": -10,
+"est": -10.999999999999998,
+"raw": 86.25792811839325,
+"retuned": 85.86171310629516
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "transkun",
+"method": "resample",
+"shift": 20,
+"est": 20.499999999999996,
+"raw": 99.78991596638656,
+"retuned": 99.7872340425532
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "basicpitch",
+"method": "resample",
+"shift": 20,
+"est": 20.499999999999996,
+"raw": 82.40252897787144,
+"retuned": 85.65531475748193
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "transkun",
+"method": "resample",
+"shift": -20,
+"est": -19.0,
+"raw": 99.78540772532189,
+"retuned": 99.7872340425532
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "basicpitch",
+"method": "resample",
+"shift": -20,
+"est": -19.0,
+"raw": 85.77827547592385,
+"retuned": 85.5072463768116
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "transkun",
+"method": "resample",
+"shift": 35,
+"est": 34.0,
+"raw": 99.79423868312757,
+"retuned": 99.78768577494692
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "basicpitch",
+"method": "resample",
+"shift": 35,
+"est": 34.0,
+"raw": 73.79310344827586,
+"retuned": 85.77319587628865
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "transkun",
+"method": "resample",
+"shift": -35,
+"est": -35.5,
+"raw": 99.56521739130434,
+"retuned": 99.78768577494692
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "basicpitch",
+"method": "resample",
+"shift": -35,
+"est": -35.5,
+"raw": 76.6541822721598,
+"retuned": 86.07068607068608
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "transkun",
+"method": "vocoder",
+"shift": 5,
+"est": 5.500000000000005,
+"raw": 99.78768577494692,
+"retuned": 99.7872340425532
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 5,
+"est": 5.500000000000005,
+"raw": 85.14225500526871,
+"retuned": 85.08403361344538
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "transkun",
+"method": "vocoder",
+"shift": -5,
+"est": -6.0,
+"raw": 99.78768577494692,
+"retuned": 99.78768577494692
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -5,
+"est": -6.0,
+"raw": 84.73520249221184,
+"retuned": 85.56485355648536
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "transkun",
+"method": "vocoder",
+"shift": 10,
+"est": 8.999999999999996,
+"raw": 99.78768577494692,
+"retuned": 99.78678038379532
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 10,
+"est": 8.999999999999996,
+"raw": 83.74070138150903,
+"retuned": 85.47008547008548
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "transkun",
+"method": "vocoder",
+"shift": -10,
+"est": -10.999999999999998,
+"raw": 99.78768577494692,
+"retuned": 99.78858350951374
+},
+{
+"piece": 5,
+"year": "2013",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -10,
+"est": -10.999999999999998,
+"raw": 87.117903930131,
+"retuned": 86.62420382165605
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "transkun",
+"method": "resample",
+"shift": 0,
+"est": 0.5000000000000004,
+"raw": 99.79267449896338,
+"retuned": 99.86168741355463
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "basicpitch",
+"method": "resample",
+"shift": 0,
+"est": 0.5000000000000004,
+"raw": 78.06691449814126,
+"retuned": 77.85234899328857
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "transkun",
+"method": "resample",
+"shift": 10,
+"est": 9.499999999999996,
+"raw": 99.79437971213159,
+"retuned": 99.79296066252587
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "basicpitch",
+"method": "resample",
+"shift": 10,
+"est": 9.499999999999996,
+"raw": 74.94456762749445,
+"retuned": 77.86824574389341
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "transkun",
+"method": "resample",
+"shift": -10,
+"est": -9.999999999999998,
+"raw": 99.79035639412999,
+"retuned": 99.79267449896338
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "basicpitch",
+"method": "resample",
+"shift": -10,
+"est": -9.999999999999998,
+"raw": 76.25786163522014,
+"retuned": 78.18317200297841
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "transkun",
+"method": "resample",
+"shift": 20,
+"est": 18.500000000000007,
+"raw": 99.79605710401087,
+"retuned": 99.79296066252587
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "basicpitch",
+"method": "resample",
+"shift": 20,
+"est": 18.500000000000007,
+"raw": 67.81789638932496,
+"retuned": 77.49077490774908
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "transkun",
+"method": "resample",
+"shift": -20,
+"est": -21.499999999999996,
+"raw": 99.78708303761533,
+"retuned": 99.79296066252587
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "basicpitch",
+"method": "resample",
+"shift": -20,
+"est": -21.499999999999996,
+"raw": 67.88194444444444,
+"retuned": 77.49077490774908
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "transkun",
+"method": "resample",
+"shift": 35,
+"est": 35.5,
+"raw": 99.2582602832097,
+"retuned": 99.86168741355463
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "basicpitch",
+"method": "resample",
+"shift": 35,
+"est": 35.5,
+"raw": 48.64864864864865,
+"retuned": 77.79433681073026
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "transkun",
+"method": "resample",
+"shift": -35,
+"est": -34.5,
+"raw": 98.5358711566618,
+"retuned": 99.86168741355463
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "basicpitch",
+"method": "resample",
+"shift": -35,
+"est": -34.5,
+"raw": 44.08602150537634,
+"retuned": 77.85234899328857
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "transkun",
+"method": "vocoder",
+"shift": 5,
+"est": 5.500000000000005,
+"raw": 99.44598337950139,
+"retuned": 99.581589958159
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 5,
+"est": 5.500000000000005,
+"raw": 69.92481203007517,
+"retuned": 71.06060606060606
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "transkun",
+"method": "vocoder",
+"shift": -5,
+"est": -4.999999999999999,
+"raw": 99.86187845303867,
+"retuned": 99.79381443298969
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -5,
+"est": -4.999999999999999,
+"raw": 74.25057647963105,
+"retuned": 75.27512839325018
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "transkun",
+"method": "vocoder",
+"shift": 10,
+"est": 9.499999999999996,
+"raw": 99.51557093425608,
+"retuned": 99.71988795518207
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 10,
+"est": 9.499999999999996,
+"raw": 69.35975609756099,
+"retuned": 72.36024844720497
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "transkun",
+"method": "vocoder",
+"shift": -10,
+"est": -9.999999999999998,
+"raw": 99.58448753462604,
+"retuned": 99.65682910089224
+},
+{
+"piece": 6,
+"year": "2014",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -10,
+"est": -9.999999999999998,
+"raw": 68.82067851373182,
+"retuned": 72.49240121580547
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "transkun",
+"method": "resample",
+"shift": 0,
+"est": 1.5000000000000013,
+"raw": 99.79959919839679,
+"retuned": 99.84947315604616
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "basicpitch",
+"method": "resample",
+"shift": 0,
+"est": 1.5000000000000013,
+"raw": 76.54196157735088,
+"retuned": 77.01799485861183
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "transkun",
+"method": "resample",
+"shift": 10,
+"est": 9.999999999999998,
+"raw": 99.85037406483791,
+"retuned": 99.79959919839679
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "basicpitch",
+"method": "resample",
+"shift": 10,
+"est": 9.999999999999998,
+"raw": 72.3704076497232,
+"retuned": 76.51821862348179
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "transkun",
+"method": "resample",
+"shift": -10,
+"est": -9.499999999999996,
+"raw": 99.79818365287589,
+"retuned": 99.79959919839679
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "basicpitch",
+"method": "resample",
+"shift": -10,
+"est": -9.499999999999996,
+"raw": 75.61615102254852,
+"retuned": 76.11253196930946
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "transkun",
+"method": "resample",
+"shift": 20,
+"est": 20.999999999999996,
+"raw": 99.75284231339594,
+"retuned": 99.84962406015038
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "basicpitch",
+"method": "resample",
+"shift": 20,
+"est": 20.999999999999996,
+"raw": 65.91519055287172,
+"retuned": 75.92875318066157
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "transkun",
+"method": "resample",
+"shift": -20,
+"est": -20.5,
+"raw": 99.84794728839331,
+"retuned": 99.84962406015038
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "basicpitch",
+"method": "resample",
+"shift": -20,
+"est": -20.5,
+"raw": 71.59353348729792,
+"retuned": 76.15189873417721
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "transkun",
+"method": "resample",
+"shift": 35,
+"est": 35.5,
+"raw": 99.41002949852508,
+"retuned": 99.79959919839679
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "basicpitch",
+"method": "resample",
+"shift": 35,
+"est": 35.5,
+"raw": 49.740932642487046,
+"retuned": 76.04912998976458
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "transkun",
+"method": "resample",
+"shift": -35,
+"est": -34.5,
+"raw": 99.53822473063109,
+"retuned": 99.79959919839679
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "basicpitch",
+"method": "resample",
+"shift": -35,
+"est": -34.5,
+"raw": 52.714285714285715,
+"retuned": 76.04912998976458
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "transkun",
+"method": "vocoder",
+"shift": 5,
+"est": 6.000000000000005,
+"raw": 99.8997995991984,
+"retuned": 99.74886991461578
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 5,
+"est": 6.000000000000005,
+"raw": 73.2589048378522,
+"retuned": 74.79849543256314
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "transkun",
+"method": "vocoder",
+"shift": -5,
+"est": -3.9999999999999982,
+"raw": 99.8997995991984,
+"retuned": 99.7997997997998
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -5,
+"est": -3.9999999999999982,
+"raw": 75.23709167544783,
+"retuned": 75.62240663900414
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "transkun",
+"method": "vocoder",
+"shift": 10,
+"est": 9.999999999999998,
+"raw": 99.79939819458374,
+"retuned": 99.74760222110046
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 10,
+"est": 9.999999999999998,
+"raw": 71.59827213822896,
+"retuned": 73.92241379310343
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "transkun",
+"method": "vocoder",
+"shift": -10,
+"est": -9.499999999999996,
+"raw": 99.79939819458374,
+"retuned": 99.8003992015968
+},
+{
+"piece": 7,
+"year": "2015",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -10,
+"est": -9.499999999999996,
+"raw": 73.25645249862713,
+"retuned": 75.05285412262157
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "transkun",
+"method": "resample",
+"shift": 0,
+"est": 2.0000000000000018,
+"raw": 97.42782152230971,
+"retuned": 97.53280839895012
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "basicpitch",
+"method": "resample",
+"shift": 0,
+"est": 2.0000000000000018,
+"raw": 76.7216846898122,
+"retuned": 77.06317586795673
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "transkun",
+"method": "resample",
+"shift": 10,
+"est": 11.5,
+"raw": 97.05882352941177,
+"retuned": 97.47899159663864
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "basicpitch",
+"method": "resample",
+"shift": 10,
+"est": 11.5,
+"raw": 72.6457399103139,
+"retuned": 77.5881683731513
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "transkun",
+"method": "resample",
+"shift": -10,
+"est": -8.000000000000002,
+"raw": 97.20021130480717,
+"retuned": 97.53280839895012
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "basicpitch",
+"method": "resample",
+"shift": -10,
+"est": -8.000000000000002,
+"raw": 74.94089834515366,
+"retuned": 77.06317586795673
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "transkun",
+"method": "resample",
+"shift": 20,
+"est": 20.000000000000007,
+"raw": 97.12192569335427,
+"retuned": 97.42782152230971
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "basicpitch",
+"method": "resample",
+"shift": 20,
+"est": 20.000000000000007,
+"raw": 65.83481877599525,
+"retuned": 76.74815235929503
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "transkun",
+"method": "resample",
+"shift": -20,
+"est": -19.0,
+"raw": 97.24284199363734,
+"retuned": 97.42782152230971
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "basicpitch",
+"method": "resample",
+"shift": -20,
+"est": -19.0,
+"raw": 66.36539703034217,
+"retuned": 77.10706150341686
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "transkun",
+"method": "resample",
+"shift": 35,
+"est": 36.0,
+"raw": 95.95800524934383,
+"retuned": 97.42782152230971
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "basicpitch",
+"method": "resample",
+"shift": 35,
+"est": 36.0,
+"raw": 48.45070422535211,
+"retuned": 76.99316628701595
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "transkun",
+"method": "resample",
+"shift": -35,
+"est": -32.49999999999999,
+"raw": 96.67738478027867,
+"retuned": 97.31437598736177
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "basicpitch",
+"method": "resample",
+"shift": -35,
+"est": -32.49999999999999,
+"raw": 42.523364485981304,
+"retuned": 77.57437070938215
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "transkun",
+"method": "vocoder",
+"shift": 5,
+"est": 7.9999999999999964,
+"raw": 96.84210526315789,
+"retuned": 96.93446088794927
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 5,
+"est": 7.9999999999999964,
+"raw": 73.13345091122868,
+"retuned": 74.11764705882352
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "transkun",
+"method": "vocoder",
+"shift": -5,
+"est": -3.9999999999999982,
+"raw": 96.9409282700422,
+"retuned": 97.2689075630252
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -5,
+"est": -3.9999999999999982,
+"raw": 75.87020648967552,
+"retuned": 77.23342939481267
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "transkun",
+"method": "vocoder",
+"shift": 10,
+"est": 11.5,
+"raw": 97.0464135021097,
+"retuned": 96.92470837751857
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 10,
+"est": 11.5,
+"raw": 69.47861745752782,
+"retuned": 73.6037624926514
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "transkun",
+"method": "vocoder",
+"shift": -10,
+"est": -8.000000000000002,
+"raw": 96.93446088794927,
+"retuned": 96.8454258675079
+},
+{
+"piece": 8,
+"year": "2017",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -10,
+"est": -8.000000000000002,
+"raw": 70.98350641417227,
+"retuned": 73.86430678466078
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "transkun",
+"method": "resample",
+"shift": 0,
+"est": 4.0000000000000036,
+"raw": 98.78608038845428,
+"retuned": 98.94394800974817
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "basicpitch",
+"method": "resample",
+"shift": 0,
+"est": 4.0000000000000036,
+"raw": 71.42410015649452,
+"retuned": 71.75911251980982
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "transkun",
+"method": "resample",
+"shift": 10,
+"est": 15.000000000000002,
+"raw": 98.76807712908409,
+"retuned": 98.83374016815839
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "basicpitch",
+"method": "resample",
+"shift": 10,
+"est": 15.000000000000002,
+"raw": 67.9340937896071,
+"retuned": 71.60651549025872
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "transkun",
+"method": "resample",
+"shift": -10,
+"est": -7.500000000000001,
+"raw": 98.91363389462249,
+"retuned": 98.89039242219215
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "basicpitch",
+"method": "resample",
+"shift": -10,
+"est": -7.500000000000001,
+"raw": 70.00983284169125,
+"retuned": 71.40151515151516
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "transkun",
+"method": "resample",
+"shift": 20,
+"est": 24.5,
+"raw": 98.69298479594558,
+"retuned": 98.77949552481692
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "basicpitch",
+"method": "resample",
+"shift": 20,
+"est": 24.5,
+"raw": 58.4089323098395,
+"retuned": 71.77855552020361
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "transkun",
+"method": "resample",
+"shift": -20,
+"est": -14.999999999999996,
+"raw": 98.74041621029573,
+"retuned": 98.83374016815839
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "basicpitch",
+"method": "resample",
+"shift": -20,
+"est": -14.999999999999996,
+"raw": 59.96330275229358,
+"retuned": 71.60651549025872
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "transkun",
+"method": "resample",
+"shift": 35,
+"est": 40.0,
+"raw": 97.52856763220834,
+"retuned": 98.83374016815839
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "basicpitch",
+"method": "resample",
+"shift": 35,
+"est": 40.0,
+"raw": 29.71576227390181,
+"retuned": 71.60651549025872
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "transkun",
+"method": "resample",
+"shift": -35,
+"est": -29.5,
+"raw": 96.09660207806795,
+"retuned": 98.91481280520891
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "basicpitch",
+"method": "resample",
+"shift": -35,
+"est": -29.5,
+"raw": 31.85354691075515,
+"retuned": 71.10400000000001
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "transkun",
+"method": "vocoder",
+"shift": 5,
+"est": 10.999999999999998,
+"raw": 98.64718614718615,
+"retuned": 98.74522640480087
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 5,
+"est": 10.999999999999998,
+"raw": 63.941508806912594,
+"retuned": 64.03000340947834
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "transkun",
+"method": "vocoder",
+"shift": -5,
+"est": 0.0,
+"raw": 98.62050311063024,
+"retuned": 98.62050311063024
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -5,
+"est": 0.0,
+"raw": 67.58259731763167,
+"retuned": 67.58259731763167
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "transkun",
+"method": "vocoder",
+"shift": 10,
+"est": 15.500000000000004,
+"raw": 98.40151720400975,
+"retuned": 98.6046511627907
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": 10,
+"est": 15.500000000000004,
+"raw": 61.590296495956885,
+"retuned": 65.2159129547773
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "transkun",
+"method": "vocoder",
+"shift": -10,
+"est": -4.499999999999998,
+"raw": 98.56718031900515,
+"retuned": 98.51871801777537
+},
+{
+"piece": 9,
+"year": "2018",
+"model": "basicpitch",
+"method": "vocoder",
+"shift": -10,
+"est": -4.499999999999998,
+"raw": 61.964038727524205,
+"retuned": 63.84849509638146
+}
+]
