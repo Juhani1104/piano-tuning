@@ -1,0 +1,10 @@
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["B905", "E501", "E741", "UP031"]
+
+[tool.ruff.lint.isort]
+known-local-folder = ["models"]
