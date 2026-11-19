@@ -4,11 +4,8 @@
 [![Python 3.12](https://img.shields.io/badge/python-3.12-3776ab)](https://www.python.org/)
 [![Built on PyTorch](https://img.shields.io/badge/built%20on-PyTorch-ee4c2c)](https://pytorch.org/)
 [![Data: MAESTRO v3](https://img.shields.io/badge/data-MAESTRO%20v3-7b3fbf)](https://magenta.tensorflow.org/datasets/maestro)
-[![3 transcribers](https://img.shields.io/badge/transcribers-Kong%20%C2%B7%20Transkun%20%C2%B7%20Basic%20Pitch-2c5aa0)](#results)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Platform: Linux](https://img.shields.io/badge/platform-Linux-lightgrey)](requirements.txt)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-[![Last commit](https://img.shields.io/github/last-commit/Juhani1104/piano-tuning)](https://github.com/Juhani1104/piano-tuning/commits/main)
 
 **A piano tuned off A440 can break a transcriber. Retune the audio first.**
 
