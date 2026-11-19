@@ -1,0 +1,11 @@
+clips 7994  median +1.0 cents  mean |offset| 9.9
+|offset| >  5 cents:  50.8%
+|offset| > 10 cents:  30.0%
+|offset| > 20 cents:  16.6%
+|offset| > 35 cents:   6.4%
+sharp by 5-20 cents:  21.6%
+flat by 5-20 cents:   12.6%
+A4 = 415 Hz is -101.3 cents
+A4 = 432 Hz is  -31.8 cents
+A4 = 442 Hz is   +7.9 cents
+A4 = 443 Hz is  +11.8 cents
