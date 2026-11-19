@@ -1,0 +1,30 @@
+studio pieces 30 tuning cents: mean +8.5 sd 2.0 min +4.5 max +12.0
+  kong     raw F1 95.78  retuned 96.43  gain   0.66 [  0.45,  0.88]  pieces improved 25/30
+           P gain   1.10 [  0.78,  1.43]  R gain   0.21 [  0.05,  0.37]
+  edwards  raw F1 98.12  retuned 98.06  gain  -0.06 [ -0.13,  0.01]  pieces improved 8/30
+           P gain  -0.08 [ -0.18,  0.03]  R gain  -0.04 [ -0.13,  0.04]
+  retuned Kong minus raw Edwards  -1.69 [ -2.29, -1.15]
+
+synth kong: pieces 10 baseline F 96.49 P 97.98 R 95.12 n_est 852.00 dev_med 3.66 fp_semitone 0.60 fp_octave 0.90 fp_other 15.10
+  resample 10 raw     dF  -0.62 [ -0.95, -0.36] dP  -0.98 dR  -0.30 dN   +6.3 dDev -0.03ms dSemi   +0.9 dOct  +0.8 dOther   +7.8
+  resample 10 retuned dF  -0.09 [ -0.20,  0.01] dP  -0.11 dR  -0.08 dN   -0.6 dDev -0.06ms dSemi   +0.1 dOct  +0.2 dOther   +1.0
+  resample 20 raw     dF  -4.58 [ -6.61, -2.86] dP  -6.09 dR  -3.10 dN  +28.8 dDev +0.01ms dSemi   +3.1 dOct  +5.3 dOther  +52.0
+  resample 20 retuned dF  -0.14 [ -0.27, -0.02] dP  -0.14 dR  -0.13 dN   -0.8 dDev -0.04ms dSemi   +0.0 dOct  +0.2 dOther   +1.4
+  resample 35 raw     dF -28.49 [-37.00,-20.35] dP -29.07 dR -27.80 dN   -8.6 dDev +0.25ms dSemi  +42.2 dOct +39.2 dOther +189.3
+  resample 35 retuned dF  -0.04 [ -0.24,  0.15] dP  -0.01 dR  -0.08 dN   -1.4 dDev -0.04ms dSemi   +0.0 dOct  +0.1 dOther   +0.9
+  vocoder   5 raw     dF -11.61 [-14.60, -9.25] dP -15.50 dR  -7.30 dN  +71.5 dDev +15.68ms dSemi   +1.9 dOct  +4.5 dOther +125.2
+  vocoder   5 retuned dF -11.89 [-15.14, -9.50] dP -15.94 dR  -7.41 dN  +73.0 dDev +15.75ms dSemi   +1.6 dOct  +5.0 dOther +128.3
+  vocoder  10 raw     dF -12.90 [-16.14,-10.49] dP -16.72 dR  -8.58 dN  +71.0 dDev +15.88ms dSemi   +3.6 dOct  +5.9 dOther +134.6
+  vocoder  10 retuned dF -12.47 [-16.05, -9.81] dP -16.28 dR  -8.25 dN  +68.5 dDev +16.31ms dSemi   +2.8 dOct  +5.8 dOther +129.6
+
+synth edwards: pieces 10 baseline F 96.24 P 97.08 R 95.49 n_est 864.20 dev_med 3.71 fp_semitone 0.20 fp_octave 1.40 fp_other 22.90
+  resample 10 raw     dF  -0.22 [ -0.45, -0.04] dP  -0.28 dR  -0.16 dN   +0.9 dDev +1.11ms dSemi   +0.5 dOct  +0.5 dOther   +2.0
+  resample 10 retuned dF  -0.01 [ -0.08,  0.06] dP  -0.04 dR  +0.01 dN   -0.6 dDev +0.05ms dSemi   +0.1 dOct  +0.0 dOther   +0.1
+  resample 20 raw     dF  -1.77 [ -2.62, -1.05] dP  -1.91 dR  -1.60 dN   +0.6 dDev +3.23ms dSemi   +3.2 dOct  +2.5 dOther  +12.3
+  resample 20 retuned dF  -0.01 [ -0.07,  0.06] dP  -0.02 dR  +0.00 dN   -1.1 dDev +0.07ms dSemi   +0.1 dOct  +0.1 dOther   -0.2
+  resample 35 raw     dF -20.98 [-28.53,-13.72] dP -18.94 dR -22.55 dN  -68.0 dDev +1.02ms dSemi  +19.4 dOct +41.1 dOther +100.0
+  resample 35 retuned dF  -0.00 [ -0.08,  0.06] dP  -0.01 dR  +0.01 dN   -1.2 dDev +0.08ms dSemi   +0.1 dOct  +0.1 dOther   -0.1
+  vocoder   5 raw     dF  -1.75 [ -3.01, -0.72] dP  -0.78 dR  -2.58 dN  -19.4 dDev +5.08ms dSemi   +1.7 dOct  +1.1 dOther   +3.4
+  vocoder   5 retuned dF  -1.60 [ -2.75, -0.71] dP  -0.67 dR  -2.40 dN  -19.4 dDev +6.09ms dSemi   +1.4 dOct  +1.1 dOther   +2.9
+  vocoder  10 raw     dF  -2.00 [ -3.22, -0.92] dP  -1.11 dR  -2.77 dN  -18.1 dDev +5.36ms dSemi   +2.0 dOct  +0.8 dOther   +6.8
+  vocoder  10 retuned dF  -1.64 [ -2.76, -0.69] dP  -0.75 dR  -2.41 dN  -19.3 dDev +6.48ms dSemi   +1.8 dOct  +0.9 dOther   +4.0

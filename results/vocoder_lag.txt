@@ -1,0 +1,21 @@
+site-packages/librosa/effects.py:448: FutureWarning: The `hop_length` parameter is deprecated as of 1.0 and will be removed in 1.1. It is unused in the current implementation.
+  stft_stretch = core.phase_vocoder(
+site-packages/librosa/effects.py:448: FutureWarning: The `n_fft` parameter is deprecated as of 1.0 and will be removed in 1.1. It is unused in the current implementation.
+  stft_stretch = core.phase_vocoder(
+click delay at +5 cents: mean +25.42 ms, sd 3.73 ms
+click delay at +10 cents: mean +18.86 ms, sd 7.44 ms
+click delay at -10 cents: mean +13.04 ms, sd 7.48 ms
+site-packages/numba/np/ufunc/dufunc.py:303: RuntimeWarning: invalid value encountered in cast
+  return super().__call__(*args, **kws)
+2004 {'clean': (95.488, 0.018, 95.588, 523), 'vocoder10': (85.481, -0.018, 89.571, 549)}
+2006 {'clean': (89.695, -0.01, 89.695, 860), 'vocoder10': (77.925, -0.01, 78.271, 866)}
+2008 {'clean': (99.424, -0.036, 99.52, 551), 'vocoder10': (84.636, -0.018, 91.824, 626)}
+2009 {'clean': (94.156, -0.014, 94.286, 769), 'vocoder10': (81.614, -0.016, 81.999, 790)}
+2011 {'clean': (95.936, -0.02, 95.936, 1101), 'vocoder10': (85.523, -0.016, 88.74, 1202)}
+2013 {'clean': (99.682, -0.014, 99.682, 515), 'vocoder10': (74.462, -0.026, 87.184, 640)}
+2014 {'clean': (98.75, -0.002, 98.75, 777), 'vocoder10': (88.769, -0.024, 92.732, 823)}
+2015 {'clean': (99.097, -0.024, 99.097, 1027), 'vocoder10': (90.225, -0.026, 93.451, 1075)}
+2017 {'clean': (95.979, -0.026, 95.979, 947), 'vocoder10': (81.303, -0.022, 87.318, 1053)}
+2018 {'clean': (96.702, -0.012, 96.757, 1906), 'vocoder10': (89.023, -0.012, 90.337, 1880)}
+clean: F1 at lag 0 96.49, best lag mean -14.0 ms, F1 at best lag 96.53
+vocoder10: F1 at lag 0 83.90, best lag mean -18.8 ms, F1 at best lag 88.14

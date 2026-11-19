@@ -1,9 +1,24 @@
-data/
-__pycache__/
+# Only code, piece lists, final results and the figure go to GitHub.
+
+# downloaded audio, MIDI and model weights (the two piece lists are kept)
+data/*
+!data/pick.json
+!data/studio_pick.json
 *.pth
 *.wav
 *.mp3
 *.zip
-results/w.log
-results/get.log
-results/*.log
+
+# logs and check outputs
+*.log
+results/smoke.txt
+
+# private notes and working files
+STATUS.md
+*.tmp
+*.bak
+
+# Python and tool caches
+__pycache__/
+*.pyc
+.ruff_cache/
